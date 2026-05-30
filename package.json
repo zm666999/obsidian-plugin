@@ -1,0 +1,24 @@
+{
+  "name": "community-plugin-detail-translator",
+  "version": "0.1.0",
+  "description": "Obsidian community plugin that translates community plugin detail pages into Chinese in place.",
+  "author": "zmsun",
+  "license": "MIT",
+  "scripts": {
+    "build": "node esbuild.config.mjs production",
+    "dev": "node esbuild.config.mjs",
+    "check": "tsc --noEmit --skipLibCheck",
+    "self-test": "node self-test.js",
+    "verify": "npm run build && npm run check && npm run self-test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "esbuild": "^0.25.5",
+    "jsdom": "^29.1.1",
+    "obsidian": "^1.8.10",
+    "typescript": "^5.8.3"
+  }
+}

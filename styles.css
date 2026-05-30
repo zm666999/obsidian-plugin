@@ -1,0 +1,16 @@
+.cpdt-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 12px 0 16px;
+  flex-wrap: wrap;
+}
+
+.cpdt-button {
+  white-space: nowrap;
+}
+
+.cpdt-status {
+  color: var(--text-muted);
+  font-size: 0.9em;
+}

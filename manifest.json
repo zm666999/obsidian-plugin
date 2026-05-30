@@ -1,7 +1,7 @@
 {
   "id": "community-plugin-detail-translator",
   "name": "Community Plugin Detail Translator",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
   "description": "Adds an in-place translation button to community plugin detail pages with configurable source and target languages.",
   "author": "zmsun",

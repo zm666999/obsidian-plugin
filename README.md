@@ -1,6 +1,6 @@
-# Community Plugin Detail Translator
+# Community Detail Translator
 
-Community Plugin Detail Translator is an Obsidian desktop plugin that adds an in-place translation button to community plugin detail pages.
+Community Detail Translator is an Obsidian desktop plugin that adds an in-place translation button to community plugin detail pages.
 
 It translates the plugin detail view directly inside the marketplace UI, supports multiple languages, and lets you switch between the translated text and the original text without leaving the page.
 
@@ -40,7 +40,7 @@ When you open a plugin details page in Obsidian's community plugin browser, the 
 
 1. Open Obsidian Settings.
 2. Go to Community plugins.
-3. Enable Community Plugin Detail Translator.
+3. Enable Community Detail Translator.
 4. Open the community plugin browser.
 5. Open any plugin detail page.
 6. Optionally choose the source and target languages in the plugin settings.

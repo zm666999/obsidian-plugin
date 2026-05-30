@@ -8,11 +8,11 @@ Translate Obsidian community plugin detail pages in place with multi-language su
 
 ## Short plugin introduction
 
-Community Plugin Detail Translator adds an in-place translation button to Obsidian's community plugin detail pages. It translates plugin descriptions directly inside the marketplace UI, supports multiple target languages, and lets users switch between translated text and the original text without leaving the page.
+Community Detail Translator adds an in-place translation button to Obsidian's community plugin detail pages. It translates plugin descriptions directly inside the marketplace UI, supports multiple target languages, and lets users switch between translated text and the original text without leaving the page.
 
 ## GitHub release notes for v0.1.0
 
-### Community Plugin Detail Translator v0.1.0
+### Community Detail Translator v0.1.0
 
 Initial public release.
 

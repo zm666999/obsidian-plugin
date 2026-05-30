@@ -1,7 +1,7 @@
 {
   "name": "community-plugin-detail-translator",
   "version": "0.1.0",
-  "description": "Obsidian community plugin that translates community plugin detail pages into Chinese in place.",
+  "description": "Obsidian plugin that translates community plugin detail pages in place with multi-language support.",
   "author": "zmsun",
   "license": "MIT",
   "scripts": {
